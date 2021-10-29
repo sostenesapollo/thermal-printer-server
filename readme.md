@@ -10,3 +10,4 @@
     date: 'DD-MM-YYYY'
  }
 ```
+![Example](/static/example.jpeg "Example")
