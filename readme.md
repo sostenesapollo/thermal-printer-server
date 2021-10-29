@@ -10,4 +10,4 @@
     date: 'DD-MM-YYYY'
  }
 ```
-![Example](/static/example.jpeg "Example")
+![Example](/static/example.jpeg "Example") { width: 200px; }
