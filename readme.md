@@ -1,6 +1,6 @@
 ### Nodejs Express Webserver to print with thermal printer
 
-## Routes
+### 🚩 Routes
 
 ##### http://localhost:3000/print
 > Send a POST request to this route with the following body:
@@ -10,5 +10,5 @@
     date: 'DD-MM-YYYY'
  }
 ```
-### Printed demo
+### 🖨️ Printed demo
 <img src="https://github.com/sostenesapollo/thermal-printer-server/blob/master/static/example.jpeg?raw=true" alt="drawing" style="width:200px;"/>
