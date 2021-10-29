@@ -10,4 +10,4 @@
     date: 'DD-MM-YYYY'
  }
 ```
-![Example](/static/example.jpeg "Example") { width: 200px; }
+<img src="https://github.com/sostenesapollo/thermal-printer-server/blob/master/static/example.jpeg?raw=true" alt="drawing" style="width:200px;"/>
