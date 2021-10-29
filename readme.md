@@ -10,4 +10,5 @@
     date: 'DD-MM-YYYY'
  }
 ```
+### Printed demo
 <img src="https://github.com/sostenesapollo/thermal-printer-server/blob/master/static/example.jpeg?raw=true" alt="drawing" style="width:200px;"/>
