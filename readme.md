@@ -1,5 +1,14 @@
 ### Nodejs Express Webserver to print with thermal printer
 
+FOR SOME REASON THE LIBRARY THAT I'M USING JUST WORKS IF
+> 1 - YOU COMMENT INSIDE THE /node_modules/escpos/statuses.js THIS THREE LINES:
+```
+ // byte = '';
+ // bits = [];
+ // bitsAsc = [];
+```
+> 2 - EXECUTE THIS CODE AS `SUDO` even if you're using `PM2`
+
 ### 🚩 Routes
 
 ##### http://localhost:3000/print
